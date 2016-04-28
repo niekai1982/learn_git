@@ -1,8 +1,1 @@
-test git
-
-test again
-
-
-test again
-
-something to print 
+test git:
